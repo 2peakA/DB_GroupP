@@ -1,0 +1,14 @@
+import pandas as pd
+
+df_success = pd.read_csv('education_career_success.csv')
+
+students = df_success[['Student_ID', 'Gender', 'Age']]
+
+academic_performance = df_success[['Student_ID', 'High_School_GPA', 'SAT_Score', 'University_GPA', 'Field_of_Study']]
+academic_performance.to_csv('academic_performance.csv', index=False)
+
+skills_extra  = df_success[['Student_ID', Internships_Completed, Projects_Completed, Certifications, Soft_Skills_Score, Networking_Score']]
+skills_extra.to_csv('skills_extra.csv', index=False)
+
+career_outcomes  = df_success[['Student_ID', 'Job_Offers', 'Starting_Salary', 'Career_Satisfaction', 'Years_to_Promotion', 'Current_Job_Level', Work_Life_Balance, Entrepreneurship']]
+career_outcomes.to_csv('career_outcomes.csv', index=False)
