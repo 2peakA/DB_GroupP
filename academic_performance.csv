@@ -1,0 +1,401 @@
+﻿Student_ID,High_School_GPA,SAT_Score,University_GPA,Field_of_Study
+S001,3.8,1450,3.6,Computer Science
+S002,3.6,1380,3.4,Business
+S003,3.9,1520,3.8,Engineering
+S004,3.5,1300,3.2,Psychology
+S005,3.7,1420,3.5,Medicine
+S006,3.4,1250,3.1,Education
+S007,3.2,1180,2.9,Arts
+S008,3.8,1480,3.7,Law
+S009,3.6,1350,3.3,Finance
+S010,3.9,1550,3.9,Computer Science
+S011,3.3,1220,3,Marketing
+S012,3.7,1400,3.5,Nursing
+S013,3.5,1320,3.2,Engineering
+S014,3.8,1460,3.6,Business
+S015,3.6,1380,3.4,Computer Science
+S016,3.4,1240,3.1,Psychology
+S017,3.2,1160,2.8,Arts
+S018,3.9,1580,4,Medicine
+S019,3.7,1420,3.5,Engineering
+S020,3.5,1300,3.2,Education
+S021,3.8,1470,3.7,Finance
+S022,3.6,1360,3.4,Marketing
+S023,3.4,1280,3.1,Business
+S024,3.9,1540,3.9,Computer Science
+S025,3.7,1400,3.5,Law
+S026,3.5,1320,3.3,Nursing
+S027,3.3,1200,3,Psychology
+S028,3.8,1490,3.7,Engineering
+S029,3.6,1340,3.4,Business
+S030,3.9,1560,4,Medicine
+S031,3.4,1260,3.1,Marketing
+S032,3.7,1420,3.5,Finance
+S033,3.5,1300,3.2,Computer Science
+S034,3.8,1480,3.6,Business
+S035,3.6,1380,3.4,Engineering
+S036,3.2,1180,2.9,Arts
+S037,3.9,1530,3.8,Law
+S038,3.7,1400,3.5,Psychology
+S039,3.5,1320,3.3,Medicine
+S040,3.8,1500,3.7,Computer Science
+S041,3.6,1360,3.4,Business
+S042,3.4,1240,3.1,Education
+S043,3.2,1190,2.8,Arts
+S044,3.9,1570,3.9,Engineering
+S045,3.7,1410,3.5,Finance
+S046,3.5,1290,3.2,Marketing
+S047,3.3,1210,3,Psychology
+S048,3.8,1450,3.6,Business
+S049,3.6,1330,3.4,Computer Science
+S050,3.9,1540,3.9,Medicine
+S051,3.5,1280,3.2,Engineering
+S052,3.7,1420,3.5,Business
+S053,3.4,1260,3.1,Marketing
+S054,3.9,1540,3.9,Computer Science
+S055,3.6,1380,3.4,Law
+S056,3.2,1180,2.9,Arts
+S057,3.8,1490,3.7,Medicine
+S058,3.6,1340,3.4,Finance
+S059,3.7,1460,3.6,Engineering
+S060,3.5,1320,3.3,Psychology
+S061,3.3,1220,3,Business
+S062,3.9,1570,3.9,Computer Science
+S063,3.6,1380,3.5,Law
+S064,3.4,1240,3.2,Nursing
+S065,3.2,1160,2.8,Arts
+S066,3.8,1480,3.7,Business
+S067,3.5,1300,3.3,Engineering
+S068,3.7,1440,3.5,Psychology
+S069,3.9,1550,3.8,Medicine
+S070,3.6,1360,3.4,Marketing
+S071,3.4,1280,3.1,Business
+S072,3.8,1500,3.7,Computer Science
+S073,3.5,1320,3.3,Law
+S074,3.7,1460,3.6,Engineering
+S075,3.9,1580,4,Medicine
+S076,3.6,1400,3.5,Psychology
+S077,3.3,1200,3,Arts
+S078,3.8,1520,3.8,Business
+S079,3.5,1340,3.4,Engineering
+S080,3.7,1420,3.5,Marketing
+S081,3.4,1260,3.2,Business
+S082,3.9,1540,3.9,Computer Science
+S083,3.6,1380,3.4,Law
+S084,3.5,1300,3.3,Psychology
+S085,3.8,1480,3.7,Engineering
+S086,3.6,1360,3.5,Business
+S087,3.4,1240,3.1,Arts
+S088,3.7,1460,3.6,Medicine
+S089,3.9,1560,3.9,Computer Science
+S090,3.5,1320,3.3,Marketing
+S091,3.3,1180,2.9,Psychology
+S092,3.8,1500,3.7,Business
+S093,3.6,1340,3.4,Engineering
+S094,3.7,1440,3.5,Medicine
+S095,3.9,1570,3.8,Computer Science
+S096,3.5,1280,3.2,Law
+S097,3.4,1220,3,Business
+S098,3.8,1520,3.7,Psychology
+S099,3.6,1360,3.4,Engineering
+S100,3.7,1400,3.5,Medicine
+S101,3.5,1300,3.3,Business
+S102,3.7,1440,3.5,Engineering
+S103,3.4,1260,3.1,Psychology
+S104,3.9,1560,3.8,Computer Science
+S105,3.6,1380,3.4,Law
+S106,3.2,1180,2.9,Arts
+S107,3.8,1500,3.7,Medicine
+S108,3.6,1340,3.4,Marketing
+S109,3.7,1480,3.6,Engineering
+S110,3.5,1320,3.3,Business
+S111,3.3,1240,3,Psychology
+S112,3.9,1540,3.9,Computer Science
+S113,3.6,1360,3.4,Law
+S114,3.5,1300,3.2,Marketing
+S115,3.8,1520,3.7,Engineering
+S116,3.6,1380,3.5,Business
+S117,3.4,1280,3.1,Arts
+S118,3.7,1460,3.6,Medicine
+S119,3.9,1580,3.9,Computer Science
+S120,3.6,1400,3.4,Law
+S121,3.4,1220,3,Psychology
+S122,3.8,1480,3.7,Business
+S123,3.5,1340,3.3,Engineering
+S124,3.7,1440,3.5,Marketing
+S125,3.9,1560,3.8,Medicine
+S126,3.5,1300,3.2,Business
+S127,3.3,1200,3,Arts
+S128,3.8,1520,3.7,Engineering
+S129,3.6,1360,3.4,Law
+S130,3.7,1420,3.5,Psychology
+S131,3.4,1260,3.1,Business
+S132,3.9,1540,3.9,Computer Science
+S133,3.6,1380,3.4,Marketing
+S134,3.5,1320,3.3,Engineering
+S135,3.8,1500,3.7,Business
+S136,3.6,1340,3.5,Psychology
+S137,3.4,1240,3,Arts
+S138,3.7,1460,3.6,Medicine
+S139,3.9,1560,3.9,Computer Science
+S140,3.5,1280,3.2,Law
+S141,3.3,1180,2.9,Business
+S142,3.8,1520,3.7,Marketing
+S143,3.6,1360,3.4,Engineering
+S144,3.7,1480,3.5,Psychology
+S145,3.9,1580,3.8,Medicine
+S146,3.5,1320,3.3,Business
+S147,3.4,1220,3,Arts
+S148,3.8,1500,3.7,Computer Science
+S149,3.6,1340,3.4,Law
+S150,3.7,1400,3.5,Psychology
+S151,3.5,1300,3.2,Engineering
+S152,3.9,1540,3.9,Business
+S153,3.6,1380,3.5,Marketing
+S154,3.4,1260,3.1,Psychology
+S155,3.8,1480,3.7,Engineering
+S156,3.7,1420,3.5,Business
+S157,3.5,1300,3.3,Law
+S158,3.9,1560,3.9,Computer Science
+S159,3.6,1360,3.4,Psychology
+S160,3.7,1440,3.6,Marketing
+S161,3.4,1240,3,Business
+S162,3.8,1500,3.7,Engineering
+S163,3.5,1320,3.3,Law
+S164,3.7,1460,3.5,Psychology
+S165,3.9,1580,3.8,Medicine
+S166,3.6,1380,3.4,Business
+S167,3.3,1200,3,Arts
+S168,3.8,1520,3.7,Computer Science
+S169,3.6,1340,3.4,Marketing
+S170,3.7,1400,3.5,Engineering
+S171,3.5,1280,3.2,Business
+S172,3.7,1440,3.5,Engineering
+S173,3.4,1260,3.1,Psychology
+S174,3.9,1560,3.8,Computer Science
+S175,3.6,1380,3.4,Law
+S176,3.2,1180,2.9,Arts
+S177,3.8,1500,3.7,Medicine
+S178,3.6,1340,3.4,Marketing
+S179,3.7,1480,3.6,Engineering
+S180,3.5,1320,3.3,Business
+S181,3.3,1240,3,Psychology
+S182,3.9,1540,3.9,Computer Science
+S183,3.6,1360,3.4,Law
+S184,3.5,1300,3.2,Marketing
+S185,3.8,1520,3.7,Engineering
+S186,3.6,1380,3.5,Business
+S187,3.4,1280,3.1,Arts
+S188,3.7,1460,3.6,Medicine
+S189,3.9,1580,3.9,Computer Science
+S190,3.6,1400,3.4,Law
+S191,3.4,1220,3,Psychology
+S192,3.8,1480,3.7,Business
+S193,3.5,1340,3.3,Engineering
+S194,3.7,1440,3.5,Marketing
+S195,3.9,1560,3.8,Medicine
+S196,3.5,1300,3.2,Business
+S197,3.3,1200,3,Arts
+S198,3.8,1520,3.7,Engineering
+S199,3.6,1360,3.4,Law
+S200,3.7,1420,3.5,Psychology
+S201,3.4,1260,3.1,Business
+S202,3.9,1540,3.9,Computer Science
+S203,3.6,1380,3.4,Marketing
+S204,3.5,1320,3.3,Engineering
+S205,3.8,1500,3.7,Business
+S206,3.6,1340,3.5,Psychology
+S207,3.4,1240,3,Arts
+S208,3.7,1460,3.6,Medicine
+S209,3.9,1560,3.9,Computer Science
+S210,3.5,1280,3.2,Law
+S211,3.3,1180,2.9,Business
+S212,3.8,1520,3.7,Marketing
+S213,3.6,1360,3.4,Engineering
+S214,3.7,1480,3.5,Psychology
+S215,3.9,1580,3.8,Medicine
+S216,3.5,1320,3.3,Business
+S217,3.4,1220,3,Arts
+S218,3.8,1500,3.7,Computer Science
+S219,3.6,1340,3.4,Law
+S220,3.7,1400,3.5,Psychology
+S221,3.5,1300,3.2,Engineering
+S222,3.9,1540,3.9,Business
+S223,3.6,1380,3.5,Marketing
+S224,3.4,1260,3.1,Psychology
+S225,3.8,1480,3.7,Engineering
+S226,3.7,1420,3.5,Business
+S227,3.5,1300,3.3,Law
+S228,3.9,1560,3.9,Computer Science
+S229,3.6,1360,3.4,Psychology
+S230,3.7,1440,3.6,Marketing
+S231,3.5,1300,3.3,Business
+S232,3.7,1440,3.5,Engineering
+S233,3.4,1260,3.1,Psychology
+S234,3.9,1560,3.8,Computer Science
+S235,3.6,1380,3.4,Law
+S236,3.2,1180,2.9,Arts
+S237,3.8,1500,3.7,Medicine
+S238,3.6,1340,3.4,Marketing
+S239,3.7,1480,3.6,Engineering
+S240,3.5,1320,3.3,Business
+S241,3.3,1240,3,Psychology
+S242,3.9,1540,3.9,Computer Science
+S243,3.6,1360,3.4,Law
+S244,3.5,1300,3.2,Marketing
+S245,3.8,1520,3.7,Engineering
+S246,3.6,1380,3.5,Business
+S247,3.4,1280,3.1,Arts
+S248,3.7,1460,3.6,Medicine
+S249,3.9,1580,3.9,Computer Science
+S250,3.6,1400,3.4,Law
+S251,3.4,1220,3,Psychology
+S252,3.8,1480,3.7,Business
+S253,3.5,1340,3.3,Engineering
+S254,3.7,1440,3.5,Marketing
+S255,3.9,1560,3.8,Medicine
+S256,3.5,1300,3.2,Business
+S257,3.3,1200,3,Arts
+S258,3.8,1520,3.7,Computer Science
+S259,3.6,1360,3.4,Law
+S260,3.7,1420,3.5,Psychology
+S261,3.4,1260,3.1,Business
+S262,3.9,1540,3.9,Computer Science
+S263,3.6,1380,3.4,Marketing
+S264,3.5,1320,3.3,Engineering
+S265,3.8,1500,3.7,Business
+S266,3.6,1340,3.5,Psychology
+S267,3.4,1240,3,Arts
+S268,3.7,1460,3.6,Medicine
+S269,3.9,1560,3.9,Computer Science
+S270,3.5,1280,3.2,Law
+S271,3.3,1180,2.9,Business
+S272,3.8,1520,3.7,Marketing
+S273,3.6,1360,3.4,Engineering
+S274,3.7,1480,3.5,Psychology
+S275,3.9,1580,3.8,Medicine
+S276,3.5,1320,3.3,Business
+S277,3.4,1220,3,Arts
+S278,3.8,1500,3.7,Computer Science
+S279,3.6,1340,3.4,Law
+S280,3.7,1400,3.5,Psychology
+S281,3.5,1300,3.2,Engineering
+S282,3.9,1540,3.9,Business
+S283,3.6,1380,3.5,Marketing
+S284,3.4,1260,3.1,Psychology
+S285,3.8,1480,3.7,Engineering
+S286,3.7,1420,3.5,Business
+S287,3.5,1300,3.3,Law
+S288,3.9,1560,3.9,Computer Science
+S289,3.6,1360,3.4,Psychology
+S290,3.7,1440,3.6,Marketing
+S291,3.4,1240,3,Business
+S292,3.8,1500,3.7,Engineering
+S293,3.5,1320,3.3,Law
+S294,3.7,1460,3.5,Psychology
+S295,3.9,1580,3.8,Medicine
+S296,3.6,1380,3.4,Business
+S297,3.3,1200,3,Arts
+S298,3.8,1520,3.7,Computer Science
+S299,3.6,1340,3.4,Marketing
+S300,3.7,1400,3.5,Engineering
+S301,3.5,1300,3.3,Business
+S302,3.7,1440,3.5,Engineering
+S303,3.4,1260,3.1,Psychology
+S304,3.9,1560,3.8,Computer Science
+S305,3.6,1380,3.4,Law
+S306,3.2,1180,2.9,Arts
+S307,3.8,1500,3.7,Medicine
+S308,3.6,1340,3.4,Marketing
+S309,3.7,1480,3.6,Engineering
+S310,3.5,1320,3.3,Business
+S311,3.3,1240,3,Psychology
+S312,3.9,1540,3.9,Computer Science
+S313,3.6,1360,3.4,Law
+S314,3.5,1300,3.2,Marketing
+S315,3.8,1520,3.7,Engineering
+S316,3.6,1380,3.5,Business
+S317,3.4,1280,3.1,Arts
+S318,3.7,1460,3.6,Medicine
+S319,3.9,1580,3.9,Computer Science
+S320,3.6,1400,3.4,Law
+S321,3.4,1220,3,Psychology
+S322,3.8,1480,3.7,Business
+S323,3.5,1340,3.3,Engineering
+S324,3.7,1440,3.5,Marketing
+S325,3.9,1560,3.8,Medicine
+S326,3.5,1300,3.2,Business
+S327,3.3,1200,3,Arts
+S328,3.8,1520,3.7,Computer Science
+S329,3.6,1360,3.4,Law
+S330,3.7,1420,3.5,Psychology
+S331,3.4,1260,3.1,Business
+S332,3.9,1540,3.9,Computer Science
+S333,3.6,1380,3.4,Marketing
+S334,3.5,1320,3.3,Engineering
+S335,3.8,1500,3.7,Business
+S336,3.6,1340,3.5,Psychology
+S337,3.4,1240,3,Arts
+S338,3.7,1460,3.6,Medicine
+S339,3.9,1560,3.9,Computer Science
+S340,3.5,1280,3.2,Law
+S341,3.3,1180,2.9,Business
+S342,3.8,1520,3.7,Marketing
+S343,3.6,1360,3.4,Engineering
+S344,3.7,1480,3.5,Psychology
+S345,3.9,1580,3.8,Medicine
+S346,3.5,1320,3.3,Business
+S347,3.4,1220,3,Arts
+S348,3.8,1500,3.7,Computer Science
+S349,3.6,1340,3.4,Law
+S350,3.7,1400,3.5,Psychology
+S351,3.5,1300,3.2,Engineering
+S352,3.9,1540,3.9,Business
+S353,3.6,1380,3.5,Marketing
+S354,3.4,1260,3.1,Psychology
+S355,3.8,1480,3.7,Engineering
+S356,3.7,1420,3.5,Business
+S357,3.5,1300,3.3,Law
+S358,3.9,1560,3.9,Computer Science
+S359,3.6,1360,3.4,Psychology
+S360,3.7,1440,3.6,Marketing
+S361,3.4,1240,3,Business
+S362,3.8,1500,3.7,Engineering
+S363,3.5,1320,3.3,Law
+S364,3.7,1460,3.5,Psychology
+S365,3.9,1580,3.8,Medicine
+S366,3.6,1380,3.4,Business
+S367,3.3,1200,3,Arts
+S368,3.8,1520,3.7,Computer Science
+S369,3.6,1340,3.4,Marketing
+S370,3.7,1400,3.5,Engineering
+S371,3.4,1260,3.1,Law
+S372,3.9,1540,3.9,Business
+S373,3.6,1380,3.5,Marketing
+S374,3.4,1260,3.1,Psychology
+S375,3.8,1480,3.7,Engineering
+S376,3.7,1420,3.5,Business
+S377,3.5,1300,3.3,Law
+S378,3.9,1560,3.9,Computer Science
+S379,3.6,1360,3.4,Psychology
+S380,3.7,1440,3.6,Marketing
+S381,3.4,1240,3,Business
+S382,3.8,1500,3.7,Engineering
+S383,3.5,1320,3.3,Law
+S384,3.7,1460,3.5,Psychology
+S385,3.9,1580,3.8,Medicine
+S386,3.6,1380,3.4,Business
+S387,3.3,1200,3,Arts
+S388,3.8,1520,3.7,Computer Science
+S389,3.6,1340,3.4,Marketing
+S390,3.7,1400,3.5,Engineering
+S391,3.4,1260,3.1,Law
+S392,3.9,1540,3.9,Business
+S393,3.6,1380,3.5,Marketing
+S394,3.4,1260,3.1,Psychology
+S395,3.8,1480,3.7,Engineering
+S396,3.7,1420,3.5,Business
+S397,3.5,1300,3.3,Law
+S398,3.9,1560,3.9,Computer Science
+S399,3.6,1360,3.4,Psychology
+S400,3.7,1440,3.6,Marketing
